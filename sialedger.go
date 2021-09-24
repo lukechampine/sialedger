@@ -8,7 +8,7 @@ import (
 	"io"
 
 	"github.com/karalabe/hid"
-	"gitlab.com/NebulousLabs/Sia/types"
+	"go.sia.tech/siad/types"
 )
 
 type hidFramer struct {
